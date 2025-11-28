@@ -129,8 +129,3 @@
   <img height="200" src="https://us1.discourse-cdn.com/flex016/uploads/codecombat/original/3X/4/5/4550b58d26cee39fe471bab4cc6bc143755fe29e.jpeg"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Artem-NA/Artem-NA/output/snake.svg" alt="Snake animation" />
-
-###
