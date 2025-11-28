@@ -7,8 +7,8 @@
 ###
 
 <p align="left">🧠 Currently exploring machine learning, experimenting with neural networks, PyTorch projects, and new ideas that help me understand the theory behind modern AI.<br>🔍 Naturally curious and detail-oriented; I enjoy breaking things apart, understanding how they work, and rebuilding them better.<br>🎮 I love building small games for game jams and interactive websites<br>🚀 Constantly improving my programming skills, learning independently, and pushing myself through hands-on projects.<br>📐 Strong background in physics and computer science, with a passion for problem-solving and riddles<br>💡Fun fact: I'm a long time LEGO collector and I love building my own sets that sharpen my imagination</p>
+<p align="left">💬Feel free to contact me via artemkh12@gmail.com</p>
 
-###
 
 <h3 align="left">⚙️Tech Stack</h3>
 
@@ -106,20 +106,6 @@
 
 ###
 
-<p align="left">💬Feel free to contact me via</p>
-
-###
-
-<div align="left">
-  <a href="artemkh16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/artem-khadji-b7aa1339a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <p align="left">😄Here is something to make you smile</p>
 
