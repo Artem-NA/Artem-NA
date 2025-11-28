@@ -130,3 +130,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Artem-NA/Artem-NA/output/snake.svg" alt="Snake animation" />
+
+###
