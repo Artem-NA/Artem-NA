@@ -94,7 +94,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVkMnlkdnZ5MTBka2J2aDF0NXNxaW1tNnFlY3dvbDF5N21sdm5peCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtjtPYYLp7gAJtZa96/giphy.gif"  />
+<img align="right" height="150" src="https://github.com/Artem-NA/Artem-NA/blob/main/jaayyy.gif"  />
 
 ###
 
